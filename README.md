@@ -40,11 +40,11 @@ Authorization: Bearer your_jwt_token_here
 
 ## Screenshots
 
-![User Registration](../Screenshots/REGISTER.png)
+![User Registration](https://github.com/varun-varneker/JWT_API/blob/main/Screenshots/REGISTER.png)
 
-![User Login](../Screenshots/LOGIN.png)
+![User Login](https://github.com/varun-varneker/JWT_API/blob/main/Screenshots/LOGIN.png)
 
-![Protected Route Access](../Screenshots/GET.png)
+![Protected Route Access](https://github.com/varun-varneker/JWT_API/blob/main/Screenshots/GET.png)
 
 ## Note
 This is a simple demo project. User data is stored in memory and will be lost when the server restarts.
