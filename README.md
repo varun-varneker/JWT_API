@@ -40,11 +40,11 @@ Authorization: Bearer your_jwt_token_here
 
 ## Screenshots
 
-![User Registration](https://github.com/varun-varneker/JWT_API/blob/main/Screenshots/REGISTER.png)
+![User Registration]([https://github.com/varun-varneker/JWT_API/blob/main/Screenshots/REGISTER.png](https://github.com/varun-varneker/JWT_API/blob/0c6f473228a3b051f5d5deb6d2eec5e60540649f/REGISTER.png))
 
-![User Login](https://github.com/varun-varneker/JWT_API/blob/main/Screenshots/LOGIN.png)
+![User Login]([https://github.com/varun-varneker/JWT_API/blob/main/Screenshots/LOGIN.png](https://github.com/varun-varneker/JWT_API/blob/0c6f473228a3b051f5d5deb6d2eec5e60540649f/LOGIN.png))
 
-![Protected Route Access](https://github.com/varun-varneker/JWT_API/blob/main/Screenshots/GET.png)
+![Protected Route Access]([https://github.com/varun-varneker/JWT_API/blob/main/Screenshots/GET.png](https://github.com/varun-varneker/JWT_API/blob/0c6f473228a3b051f5d5deb6d2eec5e60540649f/GET.png))
 
 ## Note
 This is a simple demo project. User data is stored in memory and will be lost when the server restarts.
